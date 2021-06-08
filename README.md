@@ -111,6 +111,6 @@ Run notebook webserver by running the command
 user@pc:~$ jupyter notebook
 ```  
 
-The jupyter notebook webserver will start running on your localhost, refer to <a href="#5.0-run-jupyter-notebook">notebook session instructions for windows</a> to run notebook session within the webserver instance.
+The jupyter notebook webserver will start running on your localhost, refer to <a href="#50-run-jupyter-notebook">notebook session instructions for windows</a> to run notebook session within the webserver instance.
 
 ### That's it, you're done setting up your system!
