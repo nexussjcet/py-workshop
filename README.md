@@ -69,7 +69,7 @@ Workshop pre-requisites:
 <img src = "images/cmd_install_notebook.png" width = 432px>
 <br>
 
-### 5.0 Run Jupyter Notebook {: run-jupyter}
+### 5.0 Run Jupyter Notebook
 <p>After installation is complete, you can start a jupyter notebook webserver by simply running the command <code>jupyter notebook</code> within command prompt window</p>
 <br>
 <img src = "images/cmd_run_notebook.png" width = 432px>
@@ -111,6 +111,6 @@ Run notebook webserver by running the command
 user@pc:~$ jupyter notebook
 ```  
 
-The jupyter notebook webserver will start running on your localhost, refer to [notebook session instructions for windows](run-jupyter) to run notebook session within the webserver instance.
+The jupyter notebook webserver will start running on your localhost, refer to <a href="#5.0-run-jupyter-notebook">notebook session instructions for windows</a> to run notebook session within the webserver instance.
 
 ### That's it, you're done setting up your system!
