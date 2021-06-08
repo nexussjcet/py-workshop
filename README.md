@@ -19,6 +19,10 @@ Workshop pre-requisites:
 - `Jupyter Notebook` (_python interactive developement web application_)
 
 # Setting up python workspace
+Instruction for:
+* [Windows](#windows)
+* [Linux](#linux) 
+
 
 ## Windows
 
