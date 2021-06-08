@@ -85,5 +85,32 @@ Workshop pre-requisites:
 <img src = "images/notebook_created.png" width = 432px>
 <br>
 
-### That's it, you're done setting up your system!
+## Linux 
 
+Check if python is installed:  
+
+```console  
+user@pc:~$ python --version
+```  
+If python isn't installed, refer [here](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu) to find installation intructions.  
+
+### Installing jupyter notebook
+
+Update and refresh repository list  
+```console
+user@pc:~$ sudo apt update 
+```  
+
+Installing jupyter notebook
+```console
+user@pc:~$ pip install notebook
+```
+
+Run notebook webserver by running the command
+```console
+user@pc:~$ jupyter notebook
+```  
+
+The jupyter notebook webserver will start running on your localhost, refer to [Notebook session instructions for windows](#5.0 Run Jupyter Notebook) to run notebook session.
+
+### That's it, you're done setting up your system!
