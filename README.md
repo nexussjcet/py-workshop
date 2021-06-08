@@ -23,7 +23,7 @@ Workshop pre-requisites:
 ## Windows
 
 ### 1.0 Downloading latest python
-<p>Download the latest python ver. 3.9 from the official [https://www.python.org/downloads/](website)</p>
+<p>Download the latest python ver. 3.9 from the official <a href="https://www.python.org/downloads/">website</a></p>
 <br>
 <img src = "images/download_page.png" width = 432px>  
 
