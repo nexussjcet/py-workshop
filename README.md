@@ -80,7 +80,7 @@ Workshop pre-requisites:
 ### 6.0 Creating new notebook for development
 <p>Navigate to an appropriate directory/folder and create a new notebook</p>
 <br>
-<img src = "images/notebook_start_new.png" width = 432px>
+<img src = "images/notebook_create_new.png" width = 432px>
 <br>
 <img src = "images/notebook_created.png" width = 432px>
 <br>
